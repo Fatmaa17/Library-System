@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|c:\\users\\fatma\\desktop\\librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|c:\\users\\fatma\\desktop\\librarysystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|c:\\users\\fatma\\desktop\\librarysystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|c:\\users\\fatma\\desktop\\librarysystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|c:\\users\\fatma\\desktop\\librarysystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|solutionrelative:librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|c:\\users\\fatma\\desktop\\librarysystem\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|solutionrelative:libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|c:\\users\\fatma\\desktop\\librarysystem\\librarysystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|solutionrelative:librarysystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|c:\\users\\fatma\\desktop\\librarysystem\\libcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5861EC8-9206-4F5F-A9CE-03FA41560303}|LibrarySystem.csproj|solutionrelative:libcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:27:57.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:25:21.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:27:47.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:28:04.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\Librarian.cs",
+              "RelativeDocumentMoniker": "Librarian.cs",
+              "ToolTip": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\Librarian.cs",
+              "RelativeToolTip": "Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:28:43.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryUser.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\LibraryUser.cs",
+              "RelativeDocumentMoniker": "LibraryUser.cs",
+              "ToolTip": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\LibraryUser.cs",
+              "RelativeToolTip": "LibraryUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:28:16.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibrarySystem.csproj",
+              "DocumentMoniker": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\LibrarySystem.csproj",
+              "RelativeDocumentMoniker": "LibrarySystem.csproj",
+              "ToolTip": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\LibrarySystem.csproj",
+              "RelativeToolTip": "LibrarySystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T17:58:31.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibCard.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\LibCard.cs",
+              "RelativeDocumentMoniker": "LibCard.cs",
+              "ToolTip": "C:\\Users\\fatma\\Desktop\\LibrarySystem\\LibCard.cs",
+              "RelativeToolTip": "LibCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:29:00.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

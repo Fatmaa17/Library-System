@@ -1,0 +1,15 @@
+C:\Users\fatma\Desktop\C#\LibrarySystem\obj\Debug\net8.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma\Desktop\C#\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\fatma\Desktop\C#\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfo.cs
+C:\Users\fatma\Desktop\C#\LibrarySystem\obj\Debug\net8.0\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\fatma\Desktop\C#\LibrarySystem\obj\Debug\net8.0\LibrarySystem.sourcelink.json
+C:\Users\fatma\Desktop\C#\LibrarySystem\bin\Debug\net8.0\LibrarySystem.exe
+C:\Users\fatma\Desktop\C#\LibrarySystem\bin\Debug\net8.0\LibrarySystem.deps.json
+C:\Users\fatma\Desktop\C#\LibrarySystem\bin\Debug\net8.0\LibrarySystem.runtimeconfig.json
+C:\Users\fatma\Desktop\C#\LibrarySystem\bin\Debug\net8.0\LibrarySystem.dll
+C:\Users\fatma\Desktop\C#\LibrarySystem\bin\Debug\net8.0\LibrarySystem.pdb
+C:\Users\fatma\Desktop\C#\LibrarySystem\obj\Debug\net8.0\LibrarySystem.dll
+C:\Users\fatma\Desktop\C#\LibrarySystem\obj\Debug\net8.0\refint\LibrarySystem.dll
+C:\Users\fatma\Desktop\C#\LibrarySystem\obj\Debug\net8.0\LibrarySystem.pdb
+C:\Users\fatma\Desktop\C#\LibrarySystem\obj\Debug\net8.0\LibrarySystem.genruntimeconfig.cache
+C:\Users\fatma\Desktop\C#\LibrarySystem\obj\Debug\net8.0\ref\LibrarySystem.dll
